@@ -11,4 +11,4 @@ Part 2 will be an extension to Node.js Application to take pictures and store in
 Part 3 will be an extension to upload the picture to the CloudantDB from RasPi
 Part 4 her the stuff to handle the Alchemy API for FaceDetection will be handled
 
-Part 5.... will cover the bluemix side applications# RasPi-Node.js-example2
+Part 5.... will cover the bluemix side applications
